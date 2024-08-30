@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "mypkg"
-version = "0.1.0"
+name = "24995235_mypkg"
+version = "2024.0.1.0"
 description = "A package for doing great things!"
 authors = ["Sagar"]
 license = "None"
