@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "24995235_mypkg"
+name = "mypkg"
 version = "2024.0.1.0"
 description = "A package for doing great things!"
 authors = ["Sagar"]
